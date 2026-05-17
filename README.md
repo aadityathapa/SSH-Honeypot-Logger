@@ -26,8 +26,6 @@ python3 dashboard.py
 ```bash
 python3 start.py
 ```
-```
-```
 
 ## Test it yourself
 
