@@ -1,1 +1,5 @@
 venv
+__pycache__
+honeypot.db
+honeypot.log
+server.key

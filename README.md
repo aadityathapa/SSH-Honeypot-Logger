@@ -22,6 +22,13 @@ python3 honeypot.py
 python3 dashboard.py
 ```
 
+**Or, just run the start script**
+```bash
+python3 start.py
+```
+```
+```
+
 ## Test it yourself
 
 ```bash
